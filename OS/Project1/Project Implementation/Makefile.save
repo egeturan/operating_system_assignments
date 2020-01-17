@@ -1,0 +1,6 @@
+all: cost
+cost: cost.c
+	gcc -Wall -g -o findtopk main.c
+clean:
+	rm -fr findtopk .o *~
+
