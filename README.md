@@ -1,4 +1,4 @@
-# operating_system_assignments
+# Operating_System_Projects
 These projects are made for Bilkent University CS 342 Lesson.
 # Short Descriptions for the projects
 1. In this project, I have used POSIX threads and POSIX message queues for managing sorted data.
